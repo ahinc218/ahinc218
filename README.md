@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Introduction
-Hi, I'm interested in Game programming so that I've been studying game programming recently.
+Hi, I'm interested in Game programming so I've been studying game programming recently.
 
 ## Career
 Juinor in University
