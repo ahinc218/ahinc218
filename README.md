@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Introduction
-Hi I'm ahin, I have a strong passion for game programming.
+Hi I'm ahyun, I have a strong passion for game programming.
 
 ### About me
 Third-year computer engineering student
