@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Introduction
+### Introduction
 Hi I'm ahin, I have a strong passion for game programming.
 
 ### About me
