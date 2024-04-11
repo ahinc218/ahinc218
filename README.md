@@ -1,10 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-## Introduction
-Hi, I'm interested in Game programming so I've been studying game programming recently.
+### Introduction
+Hi I'm ahin, I have a strong passion for game programming.
 
-## Career
-Juinor in University
+### About me
+Third-year computer engineering student
+
+### Skills
+- Skilled in C#, Unity
+- Experienced in C++, Java
+
+### Interests
+- Analyzing and playing video games
+- Writing novels
+- Creating pixel art
+
 
 <!--
 **ahinc218/ahinc218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
