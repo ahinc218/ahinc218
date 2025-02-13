@@ -4,7 +4,7 @@
 Hi I'm ahyun, I have a strong passion for game programming.
 
 ### About me
-Third-year computer engineering student
+Fourth-year computer engineering student
 
 ### Skills
 - Skilled in C#, Unity
